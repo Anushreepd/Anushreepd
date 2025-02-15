@@ -15,7 +15,6 @@ Here are some of my key projects:
 - **[Employee API](#)**: A React.js front-end with a Node.js back-end for managing employee data with options to edit, delete, and view records.
 - **[Student Smart Bus Pass](#)**: A bus pass registration system using Active Server Pages, HTML, and MySQL for back-end management.
 - **[Calculator using JavaScript](#)**: A simple, interactive calculator application built using HTML and JavaScript.
-- 
 
 Feel free to explore my repositories to see the projects I’ve worked on!
 
